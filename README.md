@@ -1,21 +1,28 @@
-## Hi There, I´m Nicolas Henrique 👋
-## Rookie Software Developer
 
-<table style="width: 100%;">
-  <tr>
-    <td style="vertical-align: top; padding-right: 100px;">
-      <ul>
-        <li>Pronomoes: Ele/Dele</li>
-        <li>Universitário da Puc Minas</li>
-        <li>Estudando para criar IA´s</li>
-      </ul>
-      <!-- Adicione mais informações conforme necessário -->
-    </td>
-    <td style="text-align: right;">
+<div>
+  <h1>Hi There, I´m Nicolas Henrique 👋</h1>
+  <h1 style="color: purple;">Rookie Software Developer</h1>
+</div>
+
+<div style="display: flex;">
+  <div>
+    <ul>
+      <li>Pronomes: Ele/Dele</li>
+      <li>Universitário da PUC Minas</li>
+      <li>Estudando para criar IAs</li>
+    </ul>
+  </div>
+</div>
+  
+  <div>
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFndXAyOG42NWk2YmZ1cG1nN2g4OWcwb3pnb285Z2hwZGdwaDZtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NzoSElUebNhJvacqux/giphy.gif" alt="Rem GIF" width="200">
-    </td>
-  </tr>
-</table>
+  </div>
+</div>
+
+
+
+
+
 
 <br> <!-- Adiciona um espaçamento mais sutil -->
 
