@@ -2,7 +2,7 @@
 ### ROOKIE SOFTWARE DEVELOPER
 
 <div style="display: flex; "><br/>
-    <div><br/><br/>
+    <div><br/>
     <ul>
       <li>Pronomes: Ele/Dele;</li>
       <li>Universitário da PUC Minas;</li>
