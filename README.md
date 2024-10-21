@@ -4,9 +4,9 @@
 <div style="display: flex; "><br/>
     <div>
     <ul>
-      <li>Pronomes: Ele/Dele;</li>
-      <li>Universitário da PUC Minas;</li>
-      <li>Estudando para criar IAs;</li>
+        <li>Pronouns: He/Him;</li>
+        <li>University student at PUC Minas;</li>
+        <li>Studying to create AIs;</li>
     </ul>
   </div>
     <div>
