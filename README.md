@@ -4,8 +4,6 @@
 <div style="display: flex; "><br/>
     <div>
     <ul>
-        <li>Pronouns: He/Him;</li>
-        <li>University student at PUC Minas;</li>
         <li>Studying to create AIs;</li>
     </ul>
   </div>
