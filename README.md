@@ -1,5 +1,5 @@
 ### HI! MY NAME IS NICOLAS! 
-### ROOKIE SOFTWARE DEVELOPER
+### BEGINNER SOFTWARE DEVELOPER
 
 <div style="display: flex; "><br/>
     <div>
