@@ -4,7 +4,7 @@
 <div style="display: flex; "><br/>
     <div>
     <ul>
-        <li>C#, PYTHON, HTML, CSS, WEB SITE, RESPOSIVIDADE, PROGRAMAÇÃO COM OBJETOS (POO)</li>
+        <li>WEB SITE, RESPOSIVIDADE, PROGRAMAÇÃO COM OBJETOS (POO)</li>
     </ul>
   </div>
 </div>
