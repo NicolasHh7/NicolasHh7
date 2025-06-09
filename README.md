@@ -8,7 +8,7 @@
     </ul>
   </div>
     <div>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFndXAyOG42NWk2YmZ1cG1nN2g4OWcwb3pnb285Z2hwZGdwaDZtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NzoSElUebNhJvacqux/giphy.gif" alt="Rem GIF" width="200">
+   
     </div>
 </div><br/><br/>
 
