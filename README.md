@@ -4,15 +4,10 @@
 <div style="display: flex; "><br/>
     <div>
     <ul>
-        <li>Studying to create AIs;</li>
+        <li>C#, PYTHON, HTML, CSS, WEB SITE, RESPOSIVIDADE, PROGRAMAÇÃO COM OBJETOS (POO)</li>
     </ul>
   </div>
-    <div>
-   
-    </div>
-</div><br/><br/>
-
-
+</div>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caixinhadonicolas/)
