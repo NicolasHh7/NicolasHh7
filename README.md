@@ -1,30 +1,28 @@
-### HI! MY NAME IS NICOLAS! 
-### BEGINNER SOFTWARE DEVELOPER
+<h1>Desenvolvedor Front-End</h1>
+<p>
+. . .
+</p>
 
-<div style="display: flex; "><br/>
-    <div>
-    <ul>
-        <li>WEB SITE, RESPOSIVIDADE, PROGRAMAÇÃO COM OBJETOS (POO)</li>
-    </ul>
-  </div>
-</div>
+<h3>Nicolas Henrique</h3>
+<p> Sou universitário da PUC Minas, curso Sistemas de Informação, tenho 19 anos e estudo Front-end. Tenho grande interesse em Inteligência Artificial e Automação, estou sempre em busca de aprender novas habilidades e participo ativamente de palestras e eventos na área de tecnologia. Já desenvolvi projetos de loja virtual e possuo experiência com Figma, Excel, PowerPoint, Word e metodologias ágeis, entre outras ferramentas. Tenho facilidade para trabalhar em equipe, boa comunicação interpessoal e sou aberto a mudanças e novas experiências, sempre buscando evoluir como profissional e pessoa. 
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolas-henrique-b79057330/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<p>
+. . .
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js,nodejs,mysql,sqlite,python,c#" />
+</p>
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caixinhadonicolas/)
-![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasHh7&show_icons=true&theme=radical)
 
-### TECNOLOGYS 
-
-<br/>
-
-![Instagram](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Instagram](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Instagram](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Instagram](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
